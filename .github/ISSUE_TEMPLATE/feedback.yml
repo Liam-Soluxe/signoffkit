@@ -1,0 +1,40 @@
+name: Product feedback
+description: Share a workflow problem, missing check or beta issue
+title: "[Feedback] "
+labels:
+  - feedback
+body:
+  - type: markdown
+    attributes:
+      value: |
+        Thanks for helping improve SignoffKit. Do not include client-confidential material, credentials or personal data.
+  - type: dropdown
+    id: workflow
+    attributes:
+      label: Workflow
+      options:
+        - Website launch
+        - Campaign launch
+        - Creative delivery
+        - Import or export
+        - Other
+    validations:
+      required: true
+  - type: textarea
+    id: problem
+    attributes:
+      label: What were you trying to complete?
+      description: Describe the job and where SignoffKit created friction.
+    validations:
+      required: true
+  - type: textarea
+    id: expected
+    attributes:
+      label: What would a useful result look like?
+    validations:
+      required: true
+  - type: textarea
+    id: environment
+    attributes:
+      label: Browser and device
+      description: Optional. Do not paste secrets or client data.

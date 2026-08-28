@@ -22,6 +22,25 @@ A local-first, no-account evidence-pack generator occupies a narrower position t
 - Generic engine is separable from future agency-specific templates.
 - Clear expansion path exists only if real usage warrants it.
 
+## Decision after independent market challenge
+
+Four parallel market scans were compared on 28 August 2026. They found stronger raw pain scores for scope-change logging, campaign preflight and accounting CSV repair. A live competitor search then showed the UTM/campaign-preflight category already has exact point tools including MissingLinkz, IVRIS and CheckLink, so a generic UTM preflight was rejected despite its headline score.
+
+SignoffKit remains the launch candidate because it combines the top-ranked scope-change evidence job with agency launch QA in a browser-local, no-account utility. The public beta is intentionally not an e-signature system, contract service or hosted client portal. Its validation question is narrower: will small agencies repeatedly create and hand over a structured, tamper-evident sign-off pack instead of using spreadsheets, screenshots and email?
+
 ## Evidence limitations
 
 This is problem evidence, not proof of willingness to pay. The public beta is designed to test activation and sharing before hosted collaboration or billing is built.
+
+## Selection score
+
+A weighted five-point screen used pain, willingness to pay, buildability, reachable distribution, low support burden and differentiation. Pain, willingness to pay, buildability, distribution and differentiation carried double weight; low support burden carried single weight.
+
+| Candidate | Weighted score | Percentage |
+|---|---:|---:|
+| SignoffKit marketing launch QA | 43/55 | 78.2% |
+| Hosted client approvals | 39/55 | 70.9% |
+| Bug feedback to verified PR | 36/55 | 65.5% |
+| Website change monitor | 30/55 | 54.5% |
+
+The score is a decision aid, not market proof. SignoffKit won because the useful static beta can launch without integrations, databases, client uploads or founder-operated support. Willingness to pay remains the weakest assumption and is deliberately deferred to observed usage.

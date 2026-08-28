@@ -15,7 +15,7 @@ Turn a launch checklist, reviewer notes and evidence files into one reviewable, 
 ## Minimum useful product
 
 1. Create a pack with project name, client label, version, reviewer and review date.
-2. Start from Website Launch, Campaign Launch or Creative Delivery templates.
+2. Start from Website Launch, Campaign Launch, Creative Delivery or Scope Change templates. Scope Change covers the original scope, requested change, added fee, revised delivery date and explicit review checks while avoiding e-signature or legal-contract claims.
 3. Add, edit, remove and reorder checks.
 4. Mark each check Pass, Flag or Not applicable and add notes.
 5. Attach screenshots or documents locally and calculate SHA-256 hashes in the browser.
